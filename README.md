@@ -1,6 +1,6 @@
 # FrontEnd
 
-[![FrontEnd Build Status](https://github.com/DigiDoggy/GroceryCompare/workflows/FrontEnd%20build/badge.svg)](https://github.com/DigiDoggy/GroceryCompare/actions/workflows/build-frontend.yml)
+[![Build Status](https://github.com/GroceryFamily/FrontEnd/workflows/build/badge.svg)](https://github.com/GroceryFamily/FrontEnd/actions/workflows/build.yml)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.1.1.
 
